@@ -1,0 +1,12 @@
+# PnP y artefactos pesados
+*.pdf
+cards/
+deck-*/
+_ocr_debug/
+_pdf_preview/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
